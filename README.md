@@ -1,2 +1,1 @@
-"# bootcamp" 
-"# Plants-Shop" 
+Plants Shop
